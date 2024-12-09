@@ -17,6 +17,6 @@ Link: https://app.powerbi.com/view?r=eyJrIjoiYzE0YTJlYTAtOTU0MC00ZTI2LTk4NGMtMjM
 # 3 - Dashboard vendas de carro em excel com SQL
 ![Imagem do WhatsApp de 2024-12-09 à(s) 20 10 00_8e3c3d76](https://github.com/user-attachments/assets/52644b7d-de91-4dcf-9351-4ba5cd12e3c9)
 
-
+Link: https://sgapucminasbr-my.sharepoint.com/personal/1128923_sga_pucminas_br/_layouts/15/guestaccess.aspx?share=EfMinytD57dGj5l3H-mHeoMBwR60Q6qXCYZWHpz1EgVC7g&e=KYIcYa
 
 

@@ -7,8 +7,11 @@
 # 1 - Top stream dashboard
 
 Dashboard sobre os artistas com maior número de streams do spotify ao longo dos anos;
+
 Possui código HTML CSS para a foto do autor das músicas de forma interativa;
+
 UX com elementos retirados do próprio Spotify;
+
 Totalmente interativo e com tooltips informativos;
 
 ![image](https://github.com/user-attachments/assets/35319238-9949-4679-ad82-632abbacc799)

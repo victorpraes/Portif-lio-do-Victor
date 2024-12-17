@@ -5,7 +5,10 @@
 ### Me chamo Victor Praes, e esses são meus projetos que desenvolvi como analista de dados e BI
 
 # 1 - Top stream dashboard
-Dashboard 
+Dashboard sobre os artistas com maior número de streams do spotify ao longo dos anos
+Possui código HTML CSS para a foto do autor das músicas de forma interativa
+
+
 ![image](https://github.com/user-attachments/assets/35319238-9949-4679-ad82-632abbacc799)
 
 link: https://app.powerbi.com/view?r=eyJrIjoiMjM0NDBhNTYtZWEyYS00MDFjLWExNWEtN2M0MWRlNTJmZjE2IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9

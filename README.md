@@ -22,6 +22,7 @@ Link: https://sgapucminasbr-my.sharepoint.com/personal/1128923_sga_pucminas_br/_
 
 # 4 - Dashboard Textil Market
 Um dos meus primeiros projetos de Power BI, possui análise de mercado dos principais players da indústria textil e páginas sobre a liberação de CO2, consumo de água e energia na fabricação de tecidos.
+
 ![image](https://github.com/user-attachments/assets/80015c2d-1932-41b8-a341-b0aef4124149)
 
 Link:https://app.powerbi.com/groups/me/reports/c8c6089d-1132-4239-8743-a774a900d52b/ReportSection65aaee98e140b3963bbe?experience=power-bi

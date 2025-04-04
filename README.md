@@ -28,8 +28,6 @@ Melhores práticas de documentação e formatação DAX;
 
 UX robusto utilizando Figma;
 
-Inspirado em um case de uma empresa real;
-
 ![image](https://github.com/user-attachments/assets/e2eb45cc-b5fd-4cfe-979e-940395bdc31c)
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiYzE0YTJlYTAtOTU0MC00ZTI2LTk4NGMtMjM1ZWZmYzUzZGQ1IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9
